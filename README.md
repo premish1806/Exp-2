@@ -2,7 +2,7 @@
 Data types in C++
 
 ## Aim:
- to understand the concept of data type sizes in C++ and to explore the behavior of static and non-static variables within a function.
+ To understand the concept of data type sizes in C++ and to explore the behavior of static variables in c++.
 
 ## Software Used:
 - Dev c++
