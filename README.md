@@ -34,9 +34,10 @@ int main()
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/0dfe9af9-f44d-4574-9a12-bad85153e1fc)
 
-
-## Program 2:  Write a program to show size of different data types.
+## Program 2:  Write a program to show Static Storage Class.
+.
 <strong> Code: </strong>
 <br>
 ```cpp
@@ -60,6 +61,8 @@ int main(){
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/ccfb5085-b6f2-431c-8e0c-882f673f4a3e)
+
 
 ## Conclusion:
 We learned that knowing the size of data types helps in managing memory efficiently. We also discovered that static variables keep their value between function calls, while regular variables do not.
